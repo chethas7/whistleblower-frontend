@@ -1,0 +1,26 @@
+export const TrendData=[
+    {
+        name:"Minions",
+        shares:97
+    },
+    {
+        name:"AamAdmi",
+        shares:379
+    },
+    {
+        name:"KeepCoding",
+        shares:179
+    },
+    {
+        name:"BanModi",
+        shares:971
+    },
+    {
+        name:"SayNo2Tobacco",
+        shares:235
+    },
+    {
+        name:"Thala",
+        shares:420
+    },
+]
